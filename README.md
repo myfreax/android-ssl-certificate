@@ -1,4 +1,5 @@
 # Self Signed Certificate For Android
+General，java application use `jks` keystore store certificate. But android don't support `jks` keystore. You need convert `jks` keystore to `bks`.
 
 ## Dependences
 Install `openssl`,`keytool`,[JDK 1.8](https://www.myfreax.com/tag/java/) in your computer.
